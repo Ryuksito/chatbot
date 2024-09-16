@@ -1,0 +1,14 @@
+{
+    "vocab_size": 15000,
+    "part_of_word_token": "<pow>",
+    "unk_token": "<unk>",
+    "spe_tokens": [
+        "",
+        "<bos>",
+        "<eos>",
+        "<sep>",
+        "<mask>",
+        "<unk>",
+        "<pow>"
+    ]
+}
